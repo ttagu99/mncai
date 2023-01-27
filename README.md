@@ -1,0 +1,2 @@
+# mncai
+mncai dev packages
